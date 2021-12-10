@@ -1,5 +1,6 @@
-# Hi there, I am so glad for your visting
-  Here some details about me 🐱‍💻
-# Full name: Lê Thu Hà
-# Born: April 8, 2001 in Lam Ha, Lam Dong, Vietnam
-# 2021 - 2024: Bachelor of Computer Science (Vietnam National University, Ho Chi Minh City)
+# Hi there, I am so grateful for your visiting
+# Here is something you may want to know about me 🐱‍💻
+## Overview
+### My birth name: Lê Thu Hà
+### My nickname: Zoey Le
+### I was born on April 8, 2001 in Lam Ha, Lam Dong, Vietnam
