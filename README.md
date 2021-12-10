@@ -1,5 +1,4 @@
-<img width="959" alt="Screenshot 2021-12-10 233601" src="https://user-images.githubusercontent.com/94096493/145608863-48a5b15c-9066-4017-951c-133fd1654118.png">
-
+<img width="960" alt="Screenshot 2021-12-10 233806" src="https://user-images.githubusercontent.com/94096493/145609196-964756dc-0136-4b7c-ad89-18a59d449bde.png">
 
 # Hi there 🖐
 # I am so grateful for your visiting 😸
