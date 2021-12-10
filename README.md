@@ -18,7 +18,7 @@
 ## Educations
 
 ### 2016 - 2019: AK14, Quang Trung High school for the Gifted, Binh Phuoc, Vietnam
-### 2019 - 2021: DD19LT11, EEE(Electrical and Electronics Engineering), HCM University of Technology, VNU - HCM
+### 2019 - 2021: DD19LT11, EEE (Electrical and Electronics Engineering), HCM University of Technology, VNU - HCM
 ### 2021 - Now: KHTN2021, Computer Science, University of Information Technology, VNU - HCM
 
 
