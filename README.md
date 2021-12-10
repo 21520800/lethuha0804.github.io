@@ -1,5 +1,4 @@
-![239945034_1253102581815403_6029839066850351517_n (1)](https://user-images.githubusercontent.com/94096493/145608295-26234533-80ca-4b45-b11a-2337b1fef12d.jpg)
-
+<img width="959" alt="Screenshot 2021-12-10 233601" src="https://user-images.githubusercontent.com/94096493/145608863-48a5b15c-9066-4017-951c-133fd1654118.png">
 
 
 # Hi there 🖐
