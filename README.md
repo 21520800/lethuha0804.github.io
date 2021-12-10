@@ -3,9 +3,9 @@
 # Here is something you may want to know about me 🐱‍💻
 
 ## Overview
-~ My birth name: Lê Thu Hà ./
-~ My nickname: Zoey Le
-~ I was born on April 8, 2001 in Lam Ha, Lam Dong, Vietnam
+### - My birth name: Lê Thu Hà 
+### - My nickname: Zoey Le
+### - I was born on April 8, 2001 in Lam Ha, Lam Dong, Vietnam
 
 ## Educations
 ~ 2016 - 2019: AK14, Quang Trung High school for the Gifted, Binh Phuoc, Vietnam
