@@ -30,7 +30,7 @@
 
 ### 💭 "Don't stop imagining. The day that you do is the day that you die"
 
-## I am currently working on:
+## Me right now 
 
 ### 🔭 I’m currently working on an AI project that helps students learn better with virtual instructors
 ### 🌱 I’m currently learning Computer Science, Theoretical Physics and Electronics Engineering
