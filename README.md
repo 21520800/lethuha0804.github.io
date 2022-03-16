@@ -11,7 +11,6 @@
 ##   Overview
 
 ### My birth name: Lê Thu Hà 
-### My nickname: Zoey Le
 ### I was born on April 8, 2001 in Lam Ha, Lam Dong, Vietnam
 
 
@@ -43,7 +42,7 @@
 ## How to contact me
 
 ### Gmail: 21520800@gm.uit.edu.vn
-### Facebook: https://www.facebook.com/zoeyle84
+### Facebook: https://www.facebook.com/lethuha.hana.earth
 
 
 
