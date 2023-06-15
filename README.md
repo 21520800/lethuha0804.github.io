@@ -29,14 +29,10 @@
 ### Bonus: I love music, food and almost everything in this world haha ^.^
 
 
-## My favorite quote is: 
-
-### 💭 "Don't stop imagining. The day that you do is the day that you die"
 
 ## Me right now 
 
-### 🔭 I’m currently working on an AI project that helps students learn better with virtual instructors
-### 🌱 I’m currently learning Computer Science, Theoretical Physics and Electronics Engineering
+### 🌱 I’m currently studying Computer Science, Theoretical Physics and Mathematics
 
 
 ## How to contact me
